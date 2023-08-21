@@ -15,7 +15,7 @@ O desafio consiste em testar seus skills como Fullstack. O importante é ter uma
 Não existe certo ou errado, mas optamos por algumas tecnologias, obrigatórias ao desafio, que queremos ver você utilizando:
 
 Frontend feito em React;
-Backend feito com Node.js;
+Backend feito com Node.js utilizando Nestjs;
 O banco de dados é você quem escolhe, podendo ser NoSQL ou SQL
 
 O objetivo é fazer uma aplicação utilizando a api [API](http://www.omdbapi.com/) para o usuário pesquisar, listar filmes e poder deixar uma avaliação sobre esse filme. A API trará todas estas informações prontas para você, basta aplicar a forma de fazer tais requisições da melhor forma possível.
